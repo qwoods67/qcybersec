@@ -3,8 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Internal Security Audit Simulation](https://github.com/qcybersec/LABURL)
-  - [
-
+  - 
 ## Description
 <small>Conducted an internal security audit for a fictional company named Botium Toys to assess the current security posture and identify potential risks and compliance issues.  The audit aims to provide a comprehensive overview of the company’s vulnerabilities and suggest actionable recommendations to mitigate risks and ensure compliance.  Key findings and recommendations were documented to guide the company in enhancing its security measures.</small>
 
