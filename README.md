@@ -5,7 +5,7 @@
 - [Internal Security Audit Simulation](https://github.com/qwoods67/SecurityAuditproject/blob/main/README.md)
 
 <h2>- Certifications</h2>
-- [Google Cybersecurity Certificate]
+- [Google Cybersecurity Certificate](https://github.com/qwoods67/SecurityAuditproject/blob/main/screenshots/Google.png)
 h2>📺 Popular YouTube Videos</h2>
 
 
